@@ -8,20 +8,7 @@ const projects = [
     demoUrl: '#',
     githubUrl: '#',
   },
-  {
-    title: 'To-Do App',
-    description:
-      'A task management app built with vanilla JavaScript to organize daily goals and improve productivity.',
-    demoUrl: '#',
-    githubUrl: '#',
-  },
-  {
-    title: 'Weather App',
-    description:
-      'An API-powered weather dashboard displaying forecasts and current conditions for any location.',
-    demoUrl: '#',
-    githubUrl: '#',
-  },
+  
 ]
 
 function Projects() {
